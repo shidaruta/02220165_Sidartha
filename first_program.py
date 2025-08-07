@@ -33,10 +33,12 @@ def deleteBook(title):
             root.remove(book)
             print(f"Deleted book with \n Title:{del_title}")
             break
+        
+    print(f"Book with title {del_title} not found.")
     tree.write(xml_path)
 
 
 # insertBook("Advanced Systems", "John Doe", "2023", "1234567890")
-printBooks()
+# printBooks()
 # deleteBook("Advanced Systems")
 # printBooks()
