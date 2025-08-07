@@ -1,0 +1,27 @@
+<library>
+    <book>
+        <title>Integrated Systems</title>
+        <author>Manoj Sir</author>
+        <year>2023</year>
+        <isbn>1234567890</isbn>
+    </book>
+    <book>
+        <title>GitHub tutorials</title>
+        <author>Dorji Penjo</author>
+        <year>2012</year>
+        <isbn>0987654321</isbn>
+    </book>
+    <book>
+        <title>Python </title>
+        <author>Tanish Sharma</author>
+        <year>2002</year>
+        <isbn>094454321</isbn>
+    </book>
+    <book>
+        <title>Java Basics</title>
+        <author>Bebek Saru</author>
+        <year>2010</year>
+        <isbn>1187654321</isbn>
+    </book>
+    
+</library>
