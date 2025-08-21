@@ -1,0 +1,26 @@
+[
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "isbn": "9780061120084",
+        "year": 1960
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "isbn": "9780451524935",
+        "year": 1949
+    },
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "isbn": "9780743273565",
+        "year": 1925
+    },
+    {
+        "title": "5AM Club",
+        "author": "Bebek",
+        "year": "2000",
+        "isbn": "2345678909"
+    }
+]
